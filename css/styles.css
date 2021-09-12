@@ -83,6 +83,9 @@ a {
   border: 1px solid #b9b6d3;
   margin-top: 15px;
 }
+.form__inputs__item.active {
+  border: 1px solid #ff7a7a;
+}
 .form__inputs__button {
   height: 50px;
   font-weight: 700;
